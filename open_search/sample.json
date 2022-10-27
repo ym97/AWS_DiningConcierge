@@ -1,0 +1,8 @@
+{"index": {"_index": "players", "_id": 1}}
+{"player": "Aaron Rodgers", "team": "GB", "games": 16, "rate": 121.5}
+{"index": {"_index": "players", "_id": 2}}
+{"player": "Deshaun Watson", "team": "HOU", "games": 16, "rate": 112.4}
+{"index": {"_index": "players", "_id": 3}}
+{"player": "Patrick Mahomes", "team": "KC", "games": 16, "rate": 108.2}
+{"index": {"_index": "players", "_id": 4}}
+{"player": "Josh Allen", "team": "BUF", "games": 16, "rate": 107.2}

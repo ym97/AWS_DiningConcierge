@@ -1,0 +1,6 @@
+MASTER_NAME = master
+MASTER_PASSWORD = My2727-Ma4338
+DOMAIN_ENDPOINT = https://search-restaurants-tr5okwkb7z2nugjdelsfs5t4aa.us-east-1.es.amazonaws.com
+JSON_FILENAME = restaurants_es_data.json
+curl -XPOST -u [MASTER_NAME]:[MASTER_PASSWORD] [DOMAIN_ENDPOINT]/_bulk --
+data-binary @[JSON_FILENAME] -H 'Content-Type: application/json'

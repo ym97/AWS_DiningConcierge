@@ -1,0 +1,38 @@
+curl -X GET 'https://search-restaurants-tr5okwkb7z2nugjdelsfs5t4aa.us-east-1.es.amazonaws.com/restaurants/Restaurant/_search' -d '
+{
+  "query": {
+    "match": {
+      "Cuisine": "indian"
+    }
+  }
+}
+
+
+//////////
+THIS WORKS
+//////////
+curl -XGET -u master:My2727-Ma4336 -H "Content-Type: application/json" 'https://search-restaurants-tr5okwkb7z2nugjdelsfs5t4aa.us-east-1.es.amazonaws.com/restaurants/_search?size=5' -d "{\"query\":{\"match\":{\"Cuisine\":\"indian\"}}}"
+
+curl -XGET -u master:My2727-Ma4336 -H "Content-Type: application/json" 'https://search-restaurants1-ndw3rsiqzzplkw733oib5xkc3i.us-east-1.es.amazonaws.com/restaurants/_search?size=5' -d "{\"query\":{\"match\":{\"Cuisine\":\"indian\"}}}"
+
+
+
+
+
+
+Test Event Name
+testLF2
+
+Response
+{
+  "statusCode": 200,
+  "body": "\"Hello from Lambda!\""
+}
+
+'body': '{"error":{"root_cause":
+[{"type":"security_exception","reason":"no permissions for
+ [indices:data/read/search] and
+ User [name=arn:aws:iam::788578785318:role/service-role/LF2-role-cv7g8s8y,
+ backend_roles=[arn:aws:iam::788578785318:role/service-role/LF2-role-cv7g8s8y],
+  requestedTenant=null]"}],"type":"security_exception","reason":"no permissions for [indices:data/read/search] and User [name=arn:aws:iam::788578785318:role/service-role/LF2-role-cv7g8s8y, backend_roles=[arn:aws:iam::788578785318:role/service-role/LF2-role-cv7g8s8y], requestedTenant=null]"},"status":403}'}
+

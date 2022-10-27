@@ -1,0 +1,200 @@
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "1"}}
+{"RestaurantID": "2022-10-06 07:10:59.701613", "Cuisine": "chinese"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "2"}}
+{"RestaurantID": "2022-10-06 07:23:35.706592", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "3"}}
+{"RestaurantID": "2022-10-06 07:24:11.751100", "Cuisine": "american"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "4"}}
+{"RestaurantID": "2022-10-06 07:24:24.504663", "Cuisine": "american"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "5"}}
+{"RestaurantID": "2022-10-06 07:25:26.744649", "Cuisine": "korean"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "6"}}
+{"RestaurantID": "2022-10-06 07:10:58.423935", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "7"}}
+{"RestaurantID": "2022-10-06 07:24:28.772895", "Cuisine": "american"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "8"}}
+{"RestaurantID": "2022-10-06 07:26:03.462711", "Cuisine": "thai"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "9"}}
+{"RestaurantID": "2022-10-06 07:24:48.784148", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "10"}}
+{"RestaurantID": "2022-10-06 07:18:06.828204", "Cuisine": "greek"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "11"}}
+{"RestaurantID": "2022-10-06 07:15:59.263702", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "12"}}
+{"RestaurantID": "2022-10-06 07:25:48.627004", "Cuisine": "korean"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "13"}}
+{"RestaurantID": "2022-10-06 07:19:12.257731", "Cuisine": "latin"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "14"}}
+{"RestaurantID": "2022-10-06 07:25:21.300690", "Cuisine": "korean"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "15"}}
+{"RestaurantID": "2022-10-06 07:23:45.379752", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "16"}}
+{"RestaurantID": "2022-10-06 07:24:48.580750", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "17"}}
+{"RestaurantID": "2022-10-06 07:17:43.451785", "Cuisine": "greek"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "18"}}
+{"RestaurantID": "2022-10-06 07:25:29.806119", "Cuisine": "korean"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "19"}}
+{"RestaurantID": "2022-10-06 07:10:56.024031", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "20"}}
+{"RestaurantID": "2022-10-06 07:24:22.337162", "Cuisine": "american"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "21"}}
+{"RestaurantID": "2022-10-06 07:10:40.149358", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "22"}}
+{"RestaurantID": "2022-10-06 07:23:46.659189", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "23"}}
+{"RestaurantID": "2022-10-06 07:23:30.484582", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "24"}}
+{"RestaurantID": "2022-10-06 07:15:48.595827", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "25"}}
+{"RestaurantID": "2022-10-06 07:25:04.452748", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "26"}}
+{"RestaurantID": "2022-10-06 07:25:25.426254", "Cuisine": "korean"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "27"}}
+{"RestaurantID": "2022-10-06 07:10:54.099402", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "28"}}
+{"RestaurantID": "2022-10-06 07:17:48.009477", "Cuisine": "greek"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "29"}}
+{"RestaurantID": "2022-10-06 07:24:28.782703", "Cuisine": "american"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "30"}}
+{"RestaurantID": "2022-10-06 07:10:59.698275", "Cuisine": "chinese"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "31"}}
+{"RestaurantID": "2022-10-06 07:26:27.281495", "Cuisine": "thai"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "32"}}
+{"RestaurantID": "2022-10-06 07:11:10.108068", "Cuisine": "chinese"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "33"}}
+{"RestaurantID": "2022-10-06 07:10:51.902938", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "34"}}
+{"RestaurantID": "2022-10-06 07:24:14.924343", "Cuisine": "american"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "35"}}
+{"RestaurantID": "2022-10-06 07:23:52.487491", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "36"}}
+{"RestaurantID": "2022-10-06 07:16:43.481131", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "37"}}
+{"RestaurantID": "2022-10-06 07:10:59.690494", "Cuisine": "chinese"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "38"}}
+{"RestaurantID": "2022-10-06 07:23:56.395393", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "39"}}
+{"RestaurantID": "2022-10-06 07:10:23.731314", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "40"}}
+{"RestaurantID": "2022-10-06 07:23:45.390857", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "41"}}
+{"RestaurantID": "2022-10-06 07:11:33.416842", "Cuisine": "chinese"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "42"}}
+{"RestaurantID": "2022-10-06 07:10:32.904954", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "43"}}
+{"RestaurantID": "2022-10-06 07:17:43.445047", "Cuisine": "greek"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "44"}}
+{"RestaurantID": "2022-10-06 07:24:38.761318", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "45"}}
+{"RestaurantID": "2022-10-06 07:24:55.200659", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "46"}}
+{"RestaurantID": "2022-10-06 07:25:26.763224", "Cuisine": "korean"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "47"}}
+{"RestaurantID": "2022-10-06 07:24:44.279513", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "48"}}
+{"RestaurantID": "2022-10-06 07:17:05.084275", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "49"}}
+{"RestaurantID": "2022-10-06 07:24:22.597932", "Cuisine": "american"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "50"}}
+{"RestaurantID": "2022-10-06 07:10:58.391633", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "51"}}
+{"RestaurantID": "2022-10-06 07:17:22.206589", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "52"}}
+{"RestaurantID": "2022-10-06 07:25:02.620586", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "53"}}
+{"RestaurantID": "2022-10-06 07:10:45.617267", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "54"}}
+{"RestaurantID": "2022-10-06 07:16:48.320109", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "55"}}
+{"RestaurantID": "2022-10-06 07:23:30.844578", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "56"}}
+{"RestaurantID": "2022-10-06 07:11:02.479543", "Cuisine": "chinese"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "57"}}
+{"RestaurantID": "2022-10-06 07:25:33.231911", "Cuisine": "korean"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "58"}}
+{"RestaurantID": "2022-10-06 07:23:34.561293", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "59"}}
+{"RestaurantID": "2022-10-06 07:11:46.256840", "Cuisine": "chinese"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "60"}}
+{"RestaurantID": "2022-10-06 07:11:46.253465", "Cuisine": "chinese"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "61"}}
+{"RestaurantID": "2022-10-06 07:10:56.213534", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "62"}}
+{"RestaurantID": "2022-10-06 07:10:38.357153", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "63"}}
+{"RestaurantID": "2022-10-06 07:25:22.502182", "Cuisine": "korean"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "64"}}
+{"RestaurantID": "2022-10-06 07:16:43.262109", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "65"}}
+{"RestaurantID": "2022-10-06 07:16:27.010476", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "66"}}
+{"RestaurantID": "2022-10-06 07:26:00.526034", "Cuisine": "thai"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "67"}}
+{"RestaurantID": "2022-10-06 07:23:35.715519", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "68"}}
+{"RestaurantID": "2022-10-06 07:10:36.436266", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "69"}}
+{"RestaurantID": "2022-10-06 07:26:27.285920", "Cuisine": "thai"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "70"}}
+{"RestaurantID": "2022-10-06 07:25:40.639384", "Cuisine": "korean"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "71"}}
+{"RestaurantID": "2022-10-06 07:25:06.341775", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "72"}}
+{"RestaurantID": "2022-10-06 07:25:10.963169", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "73"}}
+{"RestaurantID": "2022-10-06 07:10:31.310341", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "74"}}
+{"RestaurantID": "2022-10-06 07:23:38.426344", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "75"}}
+{"RestaurantID": "2022-10-06 07:24:04.812131", "Cuisine": "american"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "76"}}
+{"RestaurantID": "2022-10-06 07:10:38.350484", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "77"}}
+{"RestaurantID": "2022-10-06 07:23:39.838640", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "78"}}
+{"RestaurantID": "2022-10-06 07:24:58.442914", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "79"}}
+{"RestaurantID": "2022-10-06 07:24:50.332233", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "80"}}
+{"RestaurantID": "2022-10-06 07:24:30.865529", "Cuisine": "american"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "81"}}
+{"RestaurantID": "2022-10-06 07:25:46.164756", "Cuisine": "korean"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "82"}}
+{"RestaurantID": "2022-10-06 07:18:26.172086", "Cuisine": "greek"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "83"}}
+{"RestaurantID": "2022-10-06 07:17:22.199878", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "84"}}
+{"RestaurantID": "2022-10-06 07:23:58.301226", "Cuisine": "indian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "85"}}
+{"RestaurantID": "2022-10-06 07:13:34.815662", "Cuisine": "chinese"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "86"}}
+{"RestaurantID": "2022-10-06 07:16:53.304157", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "87"}}
+{"RestaurantID": "2022-10-06 07:18:51.957768", "Cuisine": "latin"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "88"}}
+{"RestaurantID": "2022-10-06 07:17:03.102099", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "89"}}
+{"RestaurantID": "2022-10-06 07:15:59.043575", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "90"}}
+{"RestaurantID": "2022-10-06 07:24:41.646064", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "91"}}
+{"RestaurantID": "2022-10-06 07:25:26.977119", "Cuisine": "korean"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "92"}}
+{"RestaurantID": "2022-10-06 07:16:41.680124", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "93"}}
+{"RestaurantID": "2022-10-06 07:11:03.942958", "Cuisine": "chinese"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "94"}}
+{"RestaurantID": "2022-10-06 07:24:50.126072", "Cuisine": "mexican"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "95"}}
+{"RestaurantID": "2022-10-06 07:10:39.932050", "Cuisine": "italian"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "96"}}
+{"RestaurantID": "2022-10-06 07:17:23.785488", "Cuisine": "greek"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "97"}}
+{"RestaurantID": "2022-10-06 07:26:12.101846", "Cuisine": "thai"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "98"}}
+{"RestaurantID": "2022-10-06 07:15:59.034645", "Cuisine": "spanish"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "99"}}
+{"RestaurantID": "2022-10-06 07:11:46.038928", "Cuisine": "chinese"}
+{"index": {"_index": "restaurants", "_type": "_doc", "_id": "100"}}
+{"RestaurantID": "2022-10-06 07:10:25.272614", "Cuisine": "italian"}
